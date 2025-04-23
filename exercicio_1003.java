@@ -10,5 +10,6 @@ public class Main{
     int SOMA = A + B;
 
     System.out.println("SOMA = " + SOMA);
+    sc.close();
   }
 }
